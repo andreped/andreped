@@ -1,4 +1,4 @@
-### Hello world, I'm André! 👋
+### Hello world! 👋
 
 I'm a PhD Candidate in Medical Technology
 - 🔭 I’m currently working with machine learning and medical image analysis
