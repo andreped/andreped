@@ -36,6 +36,10 @@ I'm a PhD Candidate in Medical Technology
 
 <!--
 
+![Github Stats Card](https://github-readme-stats.vercel.app/api?username=andreped&count_private=true&show_icons=true&theme=react&hide=prs,issues)
+
+![Compact Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=andreped&layout=compact&count_private=true&theme=react&hide)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreped&layout=compact&hide=HLSL,ShaderLab&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
 
 **andreped/andreped** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
