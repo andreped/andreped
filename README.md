@@ -7,7 +7,9 @@ I'm a PhD Candidate in Medical Technology
 - 💬 Ask me about ... **anything** ;)
 - ⚡ Fun fact: I'm secretly fond of MatLab
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreped)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreped&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![Compact Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=andreped&layout=compact&theme=react&exclude_repo=Quest,ITKColorNormalization,qpdata-fixer,qupath-project-fixer&langs_count=10&hide)
 
 |&nbsp;🏡 &nbsp;[Homepage](https://github.com/andreped)&nbsp;|&nbsp;:bulb:&nbsp;[Youtube](https://www.youtube.com/channel/UC4GM2KW54-vEZ0M1kH5-oig)&nbsp;|&nbsp;:link:&nbsp;[Google Scholar](https://scholar.google.com/citations?user=U20zUHQAAAAJ&hl=no&oi=sra)&nbsp;|&nbsp;:computer:&nbsp;[LinkedIn](https://www.linkedin.com/in/andr%C3%A9-pedersen-7166a4162/)&nbsp;|&nbsp;🧙‍&nbsp;[ResearchGate](https://www.researchgate.net/profile/Andre-Pedersen)&nbsp;|
 
@@ -36,9 +38,9 @@ I'm a PhD Candidate in Medical Technology
 
 <!--
 
-![Github Stats Card](https://github-readme-stats.vercel.app/api?username=andreped&count_private=true&show_icons=true&theme=react)
+![Compact Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=andreped&layout=compact&count_private=true&theme=react&hide=C)
 
-![Compact Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=andreped&layout=compact&count_private=true&theme=react&hide)
+![Github Stats Card](https://github-readme-stats.vercel.app/api?username=andreped&count_private=true&show_icons=true&theme=react)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreped&layout=compact&hide=HLSL,ShaderLab&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
 
