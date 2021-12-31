@@ -5,7 +5,7 @@ I'm a PhD Candidate in Medical Technology
 - 🌱 I’m also learning C++ and software development
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about ... **anything** ;)
-- ⚡ Fun fact: I'm secretly fond of MatLab
+- ⚡ Fun fact: I'm secretly fond of MATLAB
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andreped&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
