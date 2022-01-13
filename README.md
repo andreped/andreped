@@ -5,7 +5,7 @@ I'm a PhD Candidate in Medical Technology
 - 🌱 I’m also learning C++ and software development
 - 👯 I’m looking to collaborate on open-source projects
 - 💬 Ask me about ... **anything** ;)
-- ⚡ Fun fact: I'm secretly fond of MATLAB
+- ⚡ Fun fact: I'm secretly fond of <sub><sup>MATLAB</sup></sub>
 
 For more information, please check my [personal website](https://andreped.github.io/).
 
