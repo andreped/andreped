@@ -4,7 +4,7 @@ I'm a PhD Candidate in Medical Technology
 - 🔭 I’m currently working with machine learning and medical image analysis
 - 🌱 I’m also learning C++ and software development
 - 👯 I’m looking to collaborate on open-source projects
-- ⚡ Fun fact: I'm secretly fond of <sub><sup><sub><sup>MATLAB</sup></sub></sup></sub>
+- ⚡ Fun fact: I'm secretly fond of <sub><sup>MATLAB</sup></sub>
 
 For more information, please check my [personal website](https://andreped.github.io/).
 
