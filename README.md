@@ -1,6 +1,6 @@
 ### Hello world! 👋
 
-I'm a PhD Candidate in Medical Technology
+Professional potato engineer
 - 🔭 I’m currently working with machine learning and medical image analysis
 - 🌱 I’m also learning C++ and software development
 - 👯 I’m looking to collaborate on open-source projects
