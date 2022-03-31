@@ -1,10 +1,9 @@
 ### Hello world! 👋
 
-Professional potato engineer
 - 🔭 I’m currently working with machine learning and medical image analysis
 - 🌱 I’m also learning C++ and software development
 - 👯 I’m looking to collaborate on open-source projects
-- ⚡ Fun fact: I'm secretly fond of <sub><sup>MATLAB</sup></sub>
+- ⚡ Fun fact: I'm learning to develop mobile apps on the side
 
 For more information, please check my [personal website](https://andreped.github.io/).
 
