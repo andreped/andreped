@@ -1,9 +1,9 @@
 ### Hello world! 👋
 
 - 🔭 I’m currently working with machine learning and medical image analysis
-- 🌱 I’m also learning C++ and software development
+- 🌱 I’m also learning C++, Flutter, and software development
 - 👯 I’m looking to collaborate on open-source projects
-- ⚡ Fun fact: I'm learning to develop mobile apps on the side
+- ⚡ My current research topic include weakly and self-supervised learning
 
 For more information, please check my [personal website](https://andreped.github.io/).
 
