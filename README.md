@@ -1,4 +1,4 @@
-### Hello world! 👋
+### Hello there! 👋
 
 - 🔭 I’m currently working with machine learning and medical image analysis
 - 🌱 I’m also learning C++ and software development
