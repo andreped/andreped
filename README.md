@@ -1,12 +1,12 @@
 ### Hello there! 👋
 
 - 🔭 I’m currently working with machine learning and medical image analysis
-- 🌱 I’m also learning C++ and software development
+- 🌱 I’m also learning C++, Flutter, and software development
 - 👯 I’m **always** looking to collaborate on open-source projects
 - ⚡ My current research topic include weakly and self-supervised learning
 - 🐢 Outside work, I enjoy working on other fun projects, such as developing RL agents for [Super Auto Pets](https://github.com/andreped/super-ml-pets)
 
-For more information, please check my [personal website](https://andreped.github.io/).
+For more information, please, visit my [personal website](https://andreped.github.io/).
 
 [![Anurag's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=andreped&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
 
