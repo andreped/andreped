@@ -10,9 +10,11 @@ For more information, please, visit my [personal website](https://andreped.githu
 
 <!--
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/andreped?cardType=github&Title=GitHub)](https://git.io/awesome-stats-card)
+
+![latte user preview](https://github-readme-stats.vercel.app/api?username=andreped&show_icons=true&bg_color=eff1f5&text_color=4c4f69&icon_color=8839ef&title_color=179299&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=andreped&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-one-bice.vercel.app/api?username=andreped&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 &nbsp;🏡 &nbsp;[Homepage](https://andreped.github.io/)&nbsp;|&nbsp;:bulb:&nbsp;[Youtube](https://www.youtube.com/channel/UC4GM2KW54-vEZ0M1kH5-oig)&nbsp;|&nbsp;:link:&nbsp;[Google Scholar](https://scholar.google.com/citations?user=U20zUHQAAAAJ&hl=no&oi=sra)&nbsp;|&nbsp;:computer:&nbsp;[LinkedIn](https://www.linkedin.com/in/andr%C3%A9-pedersen-7166a4162/)&nbsp;|&nbsp;🧙‍&nbsp;[ResearchGate](https://www.researchgate.net/profile/Andre-Pedersen)&nbsp;
 
