@@ -1,4 +1,4 @@
-### Hello there! 👋
+### Hello there! :shipit:
 
 - 🔭 I’m currently working with machine learning and medical image analysis
 - 🌱 I’m also learning C++, Flutter, and software development
