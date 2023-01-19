@@ -3,7 +3,7 @@
 - 🔭 I’m currently working with machine learning and medical image analysis
 - 🌱 I’m also learning C++, Flutter, and software development
 - 👯 I’m **always** looking to collaborate on open-source projects
-- ⚡ My current research topic include weakly and self-supervised learning
+- ⚡ My current research topics include weakly/unsupervised histopathological image analysis
 - 🐢 Outside work, I enjoy working on other fun projects, such as developing RL agents for [Super Auto Pets](https://github.com/andreped/super-ml-pets)
 
 For more information, please, visit my [personal website](https://andreped.github.io/).
