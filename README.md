@@ -17,7 +17,7 @@ I'm a Research Scientist at [SINTEF Medical Image Analysis](https://www.sintef.n
 
 ### Other projects
 
-- **Python/C++ packages:** [FAST](https://github.com/smistad/FAST), [GradientAccumulator](https://github.com/andreped/GradientAccumulator), [SimpleCRF](https://github.com/HiLab-git/SimpleCRF)
+- **Python/C++ packages:** [FAST](https://github.com/smistad/FAST), [GradientAccumulator](https://github.com/andreped/GradientAccumulator), [SimpleCRF-binaries](https://pypi.org/project/SimpleCRF-binaries/)
 - **Game development:** [super-ml-pets](https://github.com/andreped/super-ml-pets)
 - **Mobile app development:** [DSS](https://github.com/andreped/DSS), [WriteStuff](https://github.com/andreped/WriteStuff)
 - **Web development:** [FP-dsa-plugin](https://github.com/andreped/FP-dsa-plugin), [herai](https://github.com/andreped/herai)
