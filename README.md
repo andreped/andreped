@@ -1,4 +1,4 @@
-## Hello there! :shipit:
+## Hello there! :wave:
 
 I'm a Research Scientist at [SINTEF Health Research](https://www.sintef.no/en/digital/departments-new/department-of-health-research/) and PhD Candidate at the [Department of Clinical and Molecular Medicine](https://www.ntnu.edu/ikom) at [NTNU](https://www.ntnu.edu/). My research include machine learning, image analysis, software development, and computational statistics in the field of medicine. The data types range from 3D MRI images, gigapixel histopathological images, bronchoscopy videos, free text journals, and recently mobile sensor data. I have keen interest in open source, aiming to accelerate research through making all my research and code as public and easily interpretable as possible. More information about my research and teaching can be found on my [personal website](https://andreped.github.io/). Below are listed some projects I have been involved in, either lead or participating/contributing.
 
