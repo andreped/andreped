@@ -20,9 +20,9 @@ I'm a Research Scientist at [SINTEF Medical Image Analysis](https://www.sintef.n
 ### Other projects
 
 - **Python/C++ packages:** [FAST](https://github.com/smistad/FAST), [GradientAccumulator](https://github.com/andreped/GradientAccumulator), [torchstain](https://github.com/EIDOSLAB/torchstain), [SimpleCRF-binaries](https://pypi.org/project/SimpleCRF-binaries/)
-- **Game development:** [super-ml-pets](https://github.com/andreped/super-ml-pets)
 - **Mobile app development:** [DSS](https://github.com/andreped/DSS), [WriteStuff](https://github.com/andreped/WriteStuff), [DeepSleep](https://github.com/andreped/DeepSleep)
 - **Web development:** [FP-DSA-plugin](https://github.com/andreped/FP-DSA-plugin), [herai](https://github.com/andreped/herai)
+- **Game development:** [super-ml-pets](https://github.com/andreped/super-ml-pets)
 
 ---
 
