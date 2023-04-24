@@ -13,7 +13,7 @@ I'm a Research Scientist at [SINTEF Medical Image Analysis](https://www.sintef.n
   srcset="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=andreped&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=andreped&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
 </picture>
 
 ---
