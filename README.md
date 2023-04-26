@@ -1,5 +1,5 @@
 ## Hello there! :wave:
-Working in R&D with keen interest in machine learning, computer vision, software development, and statistics for medical applications.
+Working in R&D with keen interest in deep learning, computer vision, software development, and statistics for medical applications.
 
 <!---
 I'm a Research Scientist at [SINTEF Medical Image Analysis](https://www.sintef.no/en/digital/departments-new/department-of-health-research/) and PhD Candidate at the [Department of Clinical and Molecular Medicine](https://www.ntnu.edu/ikom) at [NTNU](https://www.ntnu.edu/). My research include machine learning, image analysis, software development, and computational statistics in the field of medicine. The data types range from 3D MRI images, gigapixel histopathological images, bronchoscopy videos, free text, and recently mobile sensor data. I'm an open-source advocate, with keen interest in accelerating research and development by making all my research and implementations as public and easily interpretable as possible. More information about my research and teaching can be found on my [personal website](https://andreped.github.io/). Below are listed some projects I have been involved in, either lead or participating/contributing.
