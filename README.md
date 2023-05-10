@@ -27,8 +27,6 @@ I'm a Research Scientist at [SINTEF Medical Image Analysis](https://www.sintef.n
 - **Free-text (notes):** [adverse-events](https://github.com/andreped/adverse-events), [NLP-MTL](https://github.com/andreped/NLP-MTL)
 - **Sensors (mobile):** [DSS](https://github.com/andreped/DSS), [DeepSleep](https://github.com/andreped/DeepSleep)
 - **Other:** [FAST](https://github.com/smistad/FAST), [GradientAccumulator](https://github.com/andreped/GradientAccumulator), [super-ml-pets](https://github.com/andreped/super-ml-pets)
-- 
----
 
 ### Languages and Tools:
 
