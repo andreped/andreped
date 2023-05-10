@@ -22,18 +22,11 @@ I'm a Research Scientist at [SINTEF Medical Image Analysis](https://www.sintef.n
 ----
 
 ### Open-source projects within medicine or other
-
+- **Computer Vision:** [FAST](https://github.com/smistad/FAST), [GradientAccumulator](https://github.com/andreped/GradientAccumulator), [torchstain](https://github.com/EIDOSLAB/torchstain), [DSS](https://github.com/andreped/DSS), [super-ml-pets](https://github.com/andreped/super-ml-pets)
 - **Radiology (CT/MRI/FFDM):** [DDMR](https://github.com/jpdefrutos/DDMR), [livermask](https://github.com/andreped/livermask), [Raidionics](https://github.com/dbouget/Raidionics), [GSI-RADS](https://github.com/SINTEFMedtek/GSI-RADS), [LungTumorMask](https://github.com/VemundFredriksen/LungTumorMask), [DMDetect](https://github.com/andreped/DMDetect), [PLS-Net](https://github.com/andreped/PLS-Net), [ct_mediastinal_structures_segmentation](https://github.com/dbouget/ct_mediastinal_structures_segmentation), [mri_brain_tumor_segmentation](https://github.com/dbouget/mri_brain_tumor_segmentation), [RootPainter3D](https://github.com/Abe404/RootPainter3D)
 - **Histopathological images (WSI):** [FastPathology](https://github.com/AICAN-Research/FAST-Pathology), [NoCodeSeg](https://github.com/andreped/NoCodeSeg), [torchstain](https://github.com/EIDOSLAB/torchstain), [H2G-Net](https://github.com/andreped/H2G-Net), [fast-stain-normalization](https://github.com/andreped/fast-stain-normalization), [FP-DSA-plugin](https://github.com/andreped/FP-dsa-plugin), [vsi2tif](https://github.com/andreped/vsi2tif), [qupath-project-fixer](https://github.com/andreped/qupath-project-fixer)
 - **Free-text (notes):** [adverse-events](https://github.com/andreped/adverse-events), [NLP-MTL](https://github.com/andreped/NLP-MTL)
 - **Sensors (mobile):** [DSS](https://github.com/andreped/DSS), [DeepSleep](https://github.com/andreped/DeepSleep)
-
-----
-
-- **Python/C++ packages:** [FAST](https://github.com/smistad/FAST), [GradientAccumulator](https://github.com/andreped/GradientAccumulator), [torchstain](https://github.com/EIDOSLAB/torchstain), [SimpleCRF-binaries](https://pypi.org/project/SimpleCRF-binaries/)
-- **Mobile app development:** [DSS](https://github.com/andreped/DSS), [WriteStuff](https://github.com/andreped/WriteStuff), [DeepSleep](https://github.com/andreped/DeepSleep)
-- **Web development:** [FP-DSA-plugin](https://github.com/andreped/FP-DSA-plugin), [herai](https://github.com/andreped/herai)
-- **Game development:** [super-ml-pets](https://github.com/andreped/super-ml-pets)
 
 ---
 
