@@ -4,23 +4,25 @@ Working in R&D focusing on deep learning, computer vision, software development,
 &nbsp;🏡 &nbsp;[Homepage](https://andreped.github.io/)&nbsp;|&nbsp;:bulb:&nbsp;[Youtube](https://www.youtube.com/channel/UC4GM2KW54-vEZ0M1kH5-oig)&nbsp;|&nbsp;:link:&nbsp;[Google Scholar](https://scholar.google.com/citations?user=U20zUHQAAAAJ&hl=no&oi=sra)&nbsp;|&nbsp;:computer:&nbsp;[LinkedIn](https://www.linkedin.com/in/andr%C3%A9-pedersen/)&nbsp;|&nbsp;🧙‍&nbsp;[ResearchGate](https://www.researchgate.net/profile/Andre-Pedersen)&nbsp;
 
 <!---
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreped&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreped&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreped&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreped&theme=transparent)
 -->
 
 <!---
 I'm a Research Scientist at [SINTEF Medical Image Analysis](https://www.sintef.no/en/digital/departments-new/department-of-health-research/) and PhD Candidate at the [Department of Clinical and Molecular Medicine](https://www.ntnu.edu/ikom) at [NTNU](https://www.ntnu.edu/). My research include machine learning, image analysis, software development, and computational statistics in the field of medicine. The data types range from 3D MRI images, gigapixel histopathological images, bronchoscopy videos, free text, and recently mobile sensor data. I'm an open-source advocate, with keen interest in accelerating research and development by making all my research and implementations as public and easily interpretable as possible. More information about my research and teaching can be found on my [personal website](https://andreped.github.io/). Below are listed some projects I have been involved in, either lead or participating/contributing.
 -->
+
 <picture>
 <source 
   srcset="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=andreped&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=andreped&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+  srcset="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=andreped&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=transparent"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=andreped&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
+<img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=andreped&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=transparent" />
 </picture>
 
 ### Open-source projects within medicine or other applications
