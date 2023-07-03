@@ -11,7 +11,6 @@ Working in R&D focusing on deep learning, computer vision, software development,
 
 <!---
 I'm a Research Scientist at [SINTEF Medical Image Analysis](https://www.sintef.no/en/digital/departments-new/department-of-health-research/) and PhD Candidate at the [Department of Clinical and Molecular Medicine](https://www.ntnu.edu/ikom) at [NTNU](https://www.ntnu.edu/). My research include machine learning, image analysis, software development, and computational statistics in the field of medicine. The data types range from 3D MRI images, gigapixel histopathological images, bronchoscopy videos, free text, and recently mobile sensor data. I'm an open-source advocate, with keen interest in accelerating research and development by making all my research and implementations as public and easily interpretable as possible. More information about my research and teaching can be found on my [personal website](https://andreped.github.io/). Below are listed some projects I have been involved in, either lead or participating/contributing.
--->
 
 <picture>
 <source 
@@ -24,6 +23,25 @@ I'm a Research Scientist at [SINTEF Medical Image Analysis](https://www.sintef.n
 />
 <img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=andreped&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=transparent" />
 </picture>
+
+-->
+
+
+<!-- Light Mode -->
+<div align="left"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andreped&show_icons=true&line_height=28&hide_border=false&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews&rank_icon=percentile&exclude_repo=github-readme-stats&theme=default#gh-light-mode-only" alt="Rick Staa's Github stats" />
+</a>
+</div>
+
+<!-- Dark Mode -->
+<div align="left"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=259 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andreped&show_icons=true&line_height=28&hide_border=false&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Rick Staa's Github stats" />
+</a>
+</div>
+
+
 
 ### Selected open-source projects within medicine and other applications
 - **Radiology (CT/MRI/FFDM):** [Raidionics](https://github.com/dbouget/Raidionics), [neukit](https://github.com/andreped/neukit), [DDMR](https://github.com/jpdefrutos/DDMR), [livermask](https://github.com/andreped/livermask), [GSI-RADS](https://github.com/SINTEFMedtek/GSI-RADS), [LungTumorMask](https://github.com/VemundFredriksen/LungTumorMask), [DMDetect](https://github.com/andreped/DMDetect), [PLS-Net](https://github.com/andreped/PLS-Net), [ct_mediastinal_structures_segmentation](https://github.com/dbouget/ct_mediastinal_structures_segmentation), [mri_brain_tumor_segmentation](https://github.com/dbouget/mri_brain_tumor_segmentation)
