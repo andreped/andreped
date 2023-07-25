@@ -50,7 +50,7 @@ I'm a Research Scientist at [SINTEF Medical Image Analysis](https://www.sintef.n
 - **Sensors (mobile):** [DSS](https://github.com/andreped/DSS), [DeepSleep](https://github.com/andreped/DeepSleep)
 - **Other:** [FAST](https://github.com/smistad/FAST), [GradientAccumulator](https://github.com/andreped/GradientAccumulator), [super-ml-pets](https://github.com/andreped/super-ml-pets)
 
-### Languages and Tools:
+### Languages and Tools
 
 <img align="left" alt="keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />
 <img align="left" alt="tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
