@@ -59,7 +59,6 @@ I'm a Research Scientist at [SINTEF Medical Image Analysis](https://www.sintef.n
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/r.svg" />
 <img align="left" alt="Cpp" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
-<img align="left" alt="groovy" width="26px" src="https://cdn.guru99.com/images/2/groovy_interview_questions.png" />
 <img align="left" alt="pycharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/768px-PyCharm_Icon.svg.png" />
 <img align="left" alt="clion" width="26px" src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
