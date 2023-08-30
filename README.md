@@ -48,7 +48,7 @@ I'm a Research Scientist at [SINTEF Medical Image Analysis](https://www.sintef.n
 - **Histopathological images (WSI):** [FastPathology](https://github.com/AICAN-Research/FAST-Pathology), [NoCodeSeg](https://github.com/andreped/NoCodeSeg), [torchstain](https://github.com/EIDOSLAB/torchstain), [H2G-Net](https://github.com/andreped/H2G-Net), [fast-stain-normalization](https://github.com/andreped/fast-stain-normalization), [FP-DSA-plugin](https://github.com/andreped/FP-dsa-plugin), [vsi2tif](https://github.com/andreped/vsi2tif)
 - **Free-text (notes):** [adverse-events](https://github.com/andreped/adverse-events), [NLP-MTL](https://github.com/andreped/NLP-MTL)
 - **Sensors (mobile):** [DSS](https://github.com/andreped/DSS), [DeepSleep](https://github.com/andreped/DeepSleep)
-- **Other:** [FAST](https://github.com/smistad/FAST), [GradientAccumulator](https://github.com/andreped/GradientAccumulator), [super-ml-pets](https://github.com/andreped/super-ml-pets), [breast-cancer-stats](https://github.com/andreped/breast-cancer-stats)
+- **Other:** [FAST](https://github.com/smistad/FAST), [GradientAccumulator](https://github.com/andreped/GradientAccumulator), [super-ml-pets](https://github.com/andreped/super-ml-pets), [breast-cancer-stats](https://github.com/andreped/breast-cancer-stats), [t-loss-tf](https://github.com/andreped/t-loss-tf)
 
 ### Languages and Tools
 
