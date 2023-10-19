@@ -1,5 +1,5 @@
 ## Hello there! :wave:
-Working in R&D focusing on deep learning, computer vision, software development, and statistical analysis to improve health care.
+Working in R&D focusing on deep learning, computer vision, large language models, software development, and statistical analysis.
 
 &nbsp;🏡 &nbsp;[Homepage](https://andreped.github.io/)&nbsp;|&nbsp;:bulb:&nbsp;[Youtube](https://www.youtube.com/channel/UC4GM2KW54-vEZ0M1kH5-oig)&nbsp;|&nbsp;:link:&nbsp;[Google Scholar](https://scholar.google.com/citations?user=U20zUHQAAAAJ&hl=no&oi=sra)&nbsp;|&nbsp;:computer:&nbsp;[LinkedIn](https://www.linkedin.com/in/andr%C3%A9-pedersen/)&nbsp;|&nbsp;🧙‍&nbsp;[ResearchGate](https://www.researchgate.net/profile/Andre-Pedersen)&nbsp;
 
@@ -46,7 +46,7 @@ I'm a Research Scientist at [SINTEF Medical Image Analysis](https://www.sintef.n
 ### Selected open-source projects within medicine and other applications
 - **Radiology (CT/MRI/FFDM):** [Raidionics](https://github.com/dbouget/Raidionics), [neukit](https://github.com/andreped/neukit), [DDMR](https://github.com/jpdefrutos/DDMR), [livermask](https://github.com/andreped/livermask), [GSI-RADS](https://github.com/SINTEFMedtek/GSI-RADS), [LungTumorMask](https://github.com/VemundFredriksen/LungTumorMask), [DMDetect](https://github.com/andreped/DMDetect), [PLS-Net](https://github.com/andreped/PLS-Net), [ct_mediastinal_structures_segmentation](https://github.com/dbouget/ct_mediastinal_structures_segmentation), [mri_brain_tumor_segmentation](https://github.com/dbouget/mri_brain_tumor_segmentation), [AeroPath](https://github.com/raidionics/AeroPath)
 - **Histopathological images (WSI):** [FastPathology](https://github.com/AICAN-Research/FAST-Pathology), [NoCodeSeg](https://github.com/andreped/NoCodeSeg), [torchstain](https://github.com/EIDOSLAB/torchstain), [H2G-Net](https://github.com/andreped/H2G-Net), [fast-stain-normalization](https://github.com/andreped/fast-stain-normalization), [FP-DSA-plugin](https://github.com/andreped/FP-dsa-plugin), [vsi2tif](https://github.com/andreped/vsi2tif)
-- **Free-text (notes):** [adverse-events](https://github.com/andreped/adverse-events), [NLP-MTL](https://github.com/andreped/NLP-MTL)
+- **Free-text (chat/notes):** [chatbot-streamlit-demo](https://github.com/andreped/chatbot-streamlit-demo), [adverse-events](https://github.com/andreped/adverse-events), [NLP-MTL](https://github.com/andreped/NLP-MTL)
 - **Sensors (mobile):** [DSS](https://github.com/andreped/DSS), [DeepSleep](https://github.com/andreped/DeepSleep)
 - **Other:** [FAST](https://github.com/smistad/FAST), [GradientAccumulator](https://github.com/andreped/GradientAccumulator), [super-ml-pets](https://github.com/andreped/super-ml-pets), [breast-cancer-stats](https://github.com/andreped/breast-cancer-stats), [t-loss-tf](https://github.com/andreped/t-loss-tf), [ohif4hf](https://github.com/andreped/ohif4hf)
 
