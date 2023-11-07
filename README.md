@@ -49,6 +49,7 @@ I'm a Research Scientist at [SINTEF Medical Image Analysis](https://www.sintef.n
 - **Free-text (chat/notes):** [chatbot-streamlit-demo](https://github.com/andreped/chatbot-streamlit-demo), [ReferenceBot](https://github.com/andreped/ReferenceBot), [adverse-events](https://github.com/andreped/adverse-events), [NLP-MTL](https://github.com/andreped/NLP-MTL)
 - **Sensors (mobile):** [DSS](https://github.com/andreped/DSS), [DeepSleep](https://github.com/andreped/DeepSleep)
 - **Other:** [FAST](https://github.com/smistad/FAST), [GradientAccumulator](https://github.com/andreped/GradientAccumulator), [super-ml-pets](https://github.com/andreped/super-ml-pets), [breast-cancer-stats](https://github.com/andreped/breast-cancer-stats), [t-loss-tf](https://github.com/andreped/t-loss-tf), [ohif4hf](https://github.com/andreped/ohif4hf)
+- **Dataset contributions:** [AeroPath](https://github.com/raidionics/AeroPath), [NoCodeSeg](https://github.com/andreped/NoCodeSeg)
 
 ### Languages and Tools
 
