@@ -12,31 +12,22 @@ Working in R&D focusing on deep learning, computer vision, large language models
 <!---
 I'm a Research Scientist at [SINTEF Medical Image Analysis](https://www.sintef.no/en/digital/departments-new/department-of-health-research/) and PhD Candidate at the [Department of Clinical and Molecular Medicine](https://www.ntnu.edu/ikom) at [NTNU](https://www.ntnu.edu/). My research include machine learning, image analysis, software development, and computational statistics in the field of medicine. The data types range from 3D MRI images, gigapixel histopathological images, bronchoscopy videos, free text, and recently mobile sensor data. I'm an open-source advocate, with keen interest in accelerating research and development by making all my research and implementations as public and easily interpretable as possible. More information about my research and teaching can be found on my [personal website](https://andreped.github.io/). Below are listed some projects I have been involved in, either lead or participating/contributing.
 
-<picture>
-<source 
-  srcset="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=andreped&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=andreped&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=transparent"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=andreped&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=transparent" />
-</picture>
-
 -->
 
 <!-- Light Mode -->
-<div align="left"> 
-<img height=170 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andreped&count_private=true&theme=transparent#gh-light-mode-only&show_icons=true&rank_icon=percentile&line_height=24&include_all_commits=true&role=owner,collaborator" alt="GitHub stats" />
-<img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreped&layout=compact&langs_count=8&theme=transparent&size_weight=0.7&count_weight=0.3" alt="GitHub stats" />
-</a>
+<div align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andreped&count_private=true&theme=transparent#gh-light-mode-only&show_icons=true&rank_icon=percentile&line_height=24&include_all_commits=true&role=owner,collaborator" alt="GitHub stats" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreped&layout=compact&langs_count=8&theme=transparent&size_weight=0.7&count_weight=0.3" alt="GitHub stats" />
+  </a>
 </div>
 
 <!-- Dark Mode -->
-<div align="left"> 
-<img height=170 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andreped&count_private=true&theme=dark&bg_color=000000#gh-dark-mode-only&show_icons=true&rank_icon=percentile&line_height=24&include_all_commits=true&role=owner,collaborator" alt="GitHub stats" />
-<img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreped&layout=compact&langs_count=8&theme=dark&bg_color=000000#gh-dark-mode-only&size_weight=0.7&count_weight=0.3" alt="GitHub stats" />
+<div align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+    <img height=200 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andreped&count_private=true&theme=dark&bg_color=000000#gh-dark-mode-only&show_icons=true&rank_icon=percentile&line_height=24&include_all_commits=true&role=owner,collaborator" alt="GitHub stats" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreped&layout=compact&langs_count=8&theme=dark&bg_color=000000#gh-dark-mode-only&size_weight=0.7&count_weight=0.3" alt="GitHub stats" />
+  </a>
 </a>
 </div>
 
