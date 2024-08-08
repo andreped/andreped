@@ -18,7 +18,7 @@ I'm a Research Scientist at [SINTEF Medical Image Analysis](https://www.sintef.n
 <div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
     <img height=220 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andreped&show_icons=true&line_height=28&hide_border=false&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=transparent#gh-light-mode-only" alt="GitHub stats" />
-    <img height=220 src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreped&layout=compact&langs_count=8&theme=transparent&size_weight=0.7&count_weight=0.3" alt="GitHub stats" />
+    <img height=220 src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreped&layout=compact&langs_count=12&theme=transparent&size_weight=0.7&count_weight=0.3" alt="GitHub stats" />
   </a>
 </div>
 
@@ -26,7 +26,7 @@ I'm a Research Scientist at [SINTEF Medical Image Analysis](https://www.sintef.n
 <div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
     <img height=220 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andreped&show_icons=true&line_height=28&hide_border=false&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=transparent&bg_color=000000#gh-dark-mode-only" alt="GitHub stats" />
-    <img height=220 src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreped&layout=compact&langs_count=8&theme=dark&bg_color=000000#gh-dark-mode-only&size_weight=0.7&count_weight=0.3" alt="GitHub stats" />
+    <img height=220 src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreped&layout=compact&langs_count=12&theme=dark&bg_color=000000#gh-dark-mode-only&size_weight=0.7&count_weight=0.3" alt="GitHub stats" />
   </a>
 </a>
 </div>
