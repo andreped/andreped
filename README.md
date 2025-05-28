@@ -1,8 +1,6 @@
 ## Hello there! :wave:
 Open-source advocate. Interesting in anything related to deep learning, computer vision, large language models, and development of solutions that actually make a difference.
 
-&nbsp;🏡 &nbsp;[Homepage](https://andreped.dev/)&nbsp;|&nbsp;📖&nbsp;[Google Scholar](https://scholar.google.com/citations?user=U20zUHQAAAAJ&hl=no&oi=sra)&nbsp;|&nbsp;💻&nbsp;[LinkedIn](https://www.linkedin.com/in/andr%C3%A9-pedersen/)&nbsp;|&nbsp;🧙‍&nbsp;[ResearchGate](https://www.researchgate.net/profile/Andre-Pedersen)&nbsp;
-
 <!---
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreped&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreped&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=transparent)
