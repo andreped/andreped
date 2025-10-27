@@ -5,12 +5,19 @@ Open-source advocate. Interesting in anything related to deep learning, computer
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreped&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreped&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&theme=transparent)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreped&theme=transparent)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreped&theme=default)
+
+https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andreped&show_icons=true&line_height=28&hide_border=false&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=transparent#gh-light-mode-only
+
+https://github-readme-stats-7trsw2voq-andreped.vercel.app/api?username=andreped&show_icons=true&line_height=28&hide_border=false&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=transparent#gh-light-mode-only
+
 -->
 
 <!-- Light Mode -->
 <div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-    <img height=220 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andreped&show_icons=true&line_height=28&hide_border=false&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=transparent#gh-light-mode-only" alt="GitHub stats" />
+    <img height=220 src="https://github-readme-stats-jade-six-42.vercel.app/api?username=andreped&show_icons=true&line_height=28&hide_border=false&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=transparent#gh-light-mode-only" alt="GitHub stats" />
     <img height=220 src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreped&layout=compact&langs_count=12&theme=transparent&size_weight=0.7&count_weight=0.3&hide=jupyter%20notebook" alt="GitHub stats" />
   </a>
 </div>
@@ -18,7 +25,7 @@ Open-source advocate. Interesting in anything related to deep learning, computer
 <!-- Dark Mode -->
 <div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height=220 src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=andreped&show_icons=true&line_height=28&hide_border=false&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=transparent&bg_color=000000#gh-dark-mode-only" alt="GitHub stats" />
+    <img height=220 src="https://github-readme-stats-jade-six-42.vercel.app/api/cards/stats?username=andreped&theme=default#gh-dark-mode-only" alt="GitHub stats" />
     <img height=220 src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreped&layout=compact&langs_count=12&theme=dark&bg_color=000000#gh-dark-mode-only&size_weight=0.7&count_weight=0.3&hide=jupyter%20notebook" alt="GitHub stats" />
   </a>
 </a>
