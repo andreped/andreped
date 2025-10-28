@@ -25,7 +25,7 @@ https://github-readme-stats-7trsw2voq-andreped.vercel.app/api?username=andreped&
 <!--- Dark Mode -->
 <div align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-    <img height=220 src="https://github-readme-stats-jade-six-42.vercel.app/api/cards/stats?username=andreped&theme=default#gh-dark-mode-only" alt="GitHub stats" />
+    <img height=220 src="https://github-readme-stats-jade-six-42.vercel.app/api?username=andreped&show_icons=true&line_height=28&hide_border=false&card_width=347&include_all_commits=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=transparent#gh-dark-mode-only" alt="GitHub stats" />
     <img height=220 src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreped&layout=compact&langs_count=12&theme=dark&bg_color=000000#gh-dark-mode-only&size_weight=0.7&count_weight=0.3&hide=jupyter%20notebook" alt="GitHub stats" />
   </a>
 </a>
