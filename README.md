@@ -1,4 +1,4 @@
-## Hello there! :wave:
+## Hello there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 Open-source advocate. Interesting in anything related to deep learning, computer vision, large language models, and development of solutions that actually make a difference.
 
 <!---
